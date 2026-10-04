@@ -1,0 +1,4 @@
+# Raw portfolio data pack (employer-derived details, commit hashes). Never publish.
+_data/
+node_modules/
+.vercel/
